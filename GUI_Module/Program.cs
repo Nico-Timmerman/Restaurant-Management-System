@@ -9,9 +9,7 @@ namespace GUI_Module
 {
     public class Program
     {
-        /// <summary>
-        /// The main entry point for the application.
-        /// </summary>
+        /// Resturant Management system
         [STAThread]
         static void Main()
         {            
